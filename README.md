@@ -1,2 +1,1 @@
-- [ ] Implements Polymorphism with Rust
-- [ ] Implements Polymorphism with Golang
+- [ ] Implements Polymorphism in Rust
